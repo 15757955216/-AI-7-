@@ -4,3 +4,6 @@ visualdl
 paddleseg
 paddlenlp
 paddleocr
+x2paddle
+scikit-image
+colour
